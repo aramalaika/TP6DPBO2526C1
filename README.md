@@ -47,16 +47,19 @@ Dokumentasi program berupa screenshot dan screen recording ketika game dijalanka
 
 ### A. Main Menu
 Tampilan awal program yang menampilkan judul Flappy Bird serta tombol Start dan Exit.
+
 <img width="342" height="626" alt="1-mainmenu" src="https://github.com/user-attachments/assets/bfea72b5-6e89-4c55-b4ff-b989dc78f3fc" />
 
 
 ### B. Gameplay
 Tampilan ketika permainan berlangsung. Pemain mengendalikan burung menggunakan tombol `SPACE` untuk menghindari pipa dan memperoleh skor.
+
 <img width="343" height="629" alt="2-gameplay" src="https://github.com/user-attachments/assets/9c8e89e5-c0ef-4667-ad77-3dbf32f91e7a" />
 
 
 ### C. Game Over
 Tampilan ketika permainan berakhir akibat burung menabrak pipa atau jatuh hingga batas bawah area permainan. Pemain dapat menekan tombol `R` untuk memulai ulang permainan.
+
 <img width="342" height="625" alt="3-gameover" src="https://github.com/user-attachments/assets/46c39b93-74ac-4e19-b122-8cd93548c04b" />
 
 
